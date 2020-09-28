@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person id="1">
+        <name>张三</name>
+        <age>12</age>
+        <address>北京</address>
+        <sex>男</sex>
+        <weight>60.0</weight>
+        <height>170.0</height>
+    </person>
+    <person id="2">
+        <name>李四</name>
+        <age>22</age>
+        <address>上海</address>
+        <sex>女</sex>
+        <weight>50.0</weight>
+        <height>156.0</height>
+    </person>
+    <person id="3">
+        <name>王五</name>
+        <age>32</age>
+        <address>广州</address>
+        <sex>男</sex>
+        <weight>60.0</weight>
+        <height>180.0</height>
+    </person>
+</persons>
